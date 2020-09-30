@@ -1,5 +1,12 @@
-°¢¶û·¨ºº»¯×éÔ´´úÂëÓë×ÊÔ´¹ÜÀí
-ºº»¯¹¤¾ßÔ´´úÂëÌá½»ÖÁ´Ë´¦½øĞĞÍ³Ò»¹ÜÀí
-ºº»¯×ÊÔ´Ñ¡ÔñĞÔÌá½»µ½´Ë´¦½øĞĞÍ³Ò»¹ÜÀí
-PS1£ºÔÙ·ÇÊÚÈ¨Çé¿öÏÂ£¬¾ß±¸Ìá½»ĞŞ¸ÄÈ¨ÏŞµÄ¿ª·¢ÈËÔ±²»ÒªÉÃ×ÔÌá½»»ò¸üĞÂ´úÂë£¡
-PS2:´ÓSourceForgeÇ¨ÒÆµ½´Ë´¦£¬ÒÔºóÒÔGitHub¸üĞÂÎª×¼£¬ÓĞÎÊÌâÇëÊ¹ÓÃIssues Tracker£¡
+
+#Alpha Chinese group source code and resource management
+#The source code of the Chinese tool is submitted here for unified management
+#Chinese resources are selectively submitted here for unified management
+#PS1: Under unauthorized circumstances, developers who have the permission to submit modifications should not submit or update code without authorization!
+#PS2: Migrate from SourceForge to here, and follow GitHub updates in the future.
+
+é˜¿å°”æ³•æ±‰åŒ–ç»„æºä»£ç ä¸èµ„æºç®¡ç†
+æ±‰åŒ–å·¥å…·æºä»£ç æäº¤è‡³æ­¤å¤„è¿›è¡Œç»Ÿä¸€ç®¡ç†
+æ±‰åŒ–èµ„æºé€‰æ‹©æ€§æäº¤åˆ°æ­¤å¤„è¿›è¡Œç»Ÿä¸€ç®¡ç†
+PS1ï¼šå†éæˆæƒæƒ…å†µä¸‹ï¼Œå…·å¤‡æäº¤ä¿®æ”¹æƒé™çš„å¼€å‘äººå‘˜ä¸è¦æ“…è‡ªæäº¤æˆ–æ›´æ–°ä»£ç ï¼
+PS2:ä»SourceForgeè¿ç§»åˆ°æ­¤å¤„ï¼Œä»¥åä»¥GitHubæ›´æ–°ä¸ºå‡†ï¼Œæœ‰é—®é¢˜è¯·ä½¿ç”¨Issues Trackerï¼
